@@ -10,7 +10,6 @@ public class TestBFS {
 	public static void main(String args[]) {
 		test1(CreateGraph.initializeGraph1());
 		test1(CreateGraph.initializeGraph());
-		
 	}
 	
 	private static void test1(Node initializeGraph) {
