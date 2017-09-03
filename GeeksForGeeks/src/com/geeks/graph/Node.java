@@ -72,7 +72,7 @@ public class Node{
 			return false;
 		return true;
 	}
-	public int getWeight(Node node) {
+	public Integer getWeight(Node node) {
 		return weightMap.get(node);
 	}
 	public void setWeightMap(Map<Node, Integer> weightMap) {
