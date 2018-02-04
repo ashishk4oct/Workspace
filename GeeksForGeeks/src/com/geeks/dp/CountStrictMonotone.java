@@ -7,7 +7,7 @@ package com.geeks.dp;
 public class CountStrictMonotone {
 
 	public static void main(String[] args) {
-		int count = getCountOfNDigitStrictMonotone(5);
+		int count = getCountOfNDigitStrictMonotone(6);
 		System.out.println(count);
 	}
 
