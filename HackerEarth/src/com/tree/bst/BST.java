@@ -1,7 +1,7 @@
 package com.tree.bst;
 
 
-public class InsertIntoBST {
+public class BST {
 
 	public static void main(String[] args) {
 		Node root = insertNode(null, 10);
@@ -13,17 +13,73 @@ public class InsertIntoBST {
 		insertNode(root, 4);
 		insertNode(root, 7);
 		insertNode(root, 8);
+
+		traverseTree(root);
+
+		root = deleteNode(root, 10);
+		traverseTree(root);
+		root = deleteNode(root, 50);
+		traverseTree(root);
+
+		root = deleteNode(root, 5);
+		traverseTree(root);
+		root = deleteNode(root, 7);
+		traverseTree(root);
+		root = deleteNode(root, 8);
+		traverseTree(root);		
+		root = deleteNode(root, 4);
+		traverseTree(root);
+		root = deleteNode(root, 20);
+		traverseTree(root);
+		root = deleteNode(root, 15);
+		traverseTree(root);
+	}
+	
+
+	private static Node deleteNode(Node node, int data) {
+		if(null == node)
+			return node;
+		if(node.data == data) {
+			node = delete(node);
+		}else if(node.data < data) {
+			node.right = deleteNode(node.right, data);
+		}else {
+			node.left = deleteNode(node.left, data);
+		}
+		return node;
+	}
+
+	private static Node delete(Node node) {
+
+		if(null == node.left)
+			return node.right;
+		if(null == node.right)
+			return node.left;
 		
-		System.out.printf("Pre Order: ");
+		int data = findSmallestNode(node.right).data;
+		deleteNode(node , data);
+		
+		Node newNode = new Node(data,node.left, node.right);
+		return newNode;
+	}
+
+
+	private static Node findSmallestNode(Node node) {
+		if(null != node.left)
+			return findSmallestNode(node.left);
+		return node;
+	}
+
+
+	private static void traverseTree(Node root) {
+		System.out.printf("\nPre Order: ");
 		preOrderTraversal(root);
 		System.out.printf("\nIn Order: ");
 		inOrderTraversal(root);
 		System.out.printf("\nPost  Order: ");
 		postOrderTraversal(root);
-		
-
 	}
-	
+
 
 	private static void preOrderTraversal(Node node) {
 		if(null == node) 
