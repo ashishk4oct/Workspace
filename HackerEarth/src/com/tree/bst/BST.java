@@ -71,7 +71,7 @@ public class BST {
 	}
 
 
-	private static void traverseTree(Node root) {
+	public static void traverseTree(Node root) {
 		System.out.printf("\nPre Order: ");
 		preOrderTraversal(root);
 		System.out.printf("\nIn Order: ");
@@ -118,16 +118,4 @@ public class BST {
 		return node;
 	}
 
-}
-
-class Node{
-	int data;
-    Node left;
-    Node right;
-    
-	public Node(int data, Node left, Node right) {
-		this.data = data;
-		this.left = left;
-		this.right = right;
-	}
 }
