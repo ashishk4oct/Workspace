@@ -41,6 +41,7 @@ enum View{
 	String value ;
 
 	private View(String view) {
+		this.value = view;
 	}
 	
 }
