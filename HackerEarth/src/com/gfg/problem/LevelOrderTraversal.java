@@ -30,10 +30,11 @@ public class LevelOrderTraversal {
 		levelOrderTraverse(q.poll());
 	
 	}
-}
 
-class Node {
-	int data;
-	Node left;
-	Node right;
+	static class Node {
+		int data;
+		Node left;
+		Node right;
+	}
+
 }

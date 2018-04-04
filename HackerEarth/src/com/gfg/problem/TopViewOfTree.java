@@ -68,7 +68,7 @@ public class TopViewOfTree {
 			map.put(node.width, node);
 		}
 	}
-
+	
 	static class Node {
 		int data;
 		Node left;
@@ -83,3 +83,4 @@ public class TopViewOfTree {
 		}
 	}
 }
+
