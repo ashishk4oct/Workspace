@@ -1,28 +1,15 @@
 package com.problem.goldmansack;
 
-public class Knapsack {
-	static int max(int a, int b) {
-		return (a > b) ? a : b;
-	}
+public class CargoProblem {
 
-	static int knapSack(int W, int wt[], int val[], int n) {
-		if (n == 0 || W == 0)
-			return 0;
-		if (wt[n - 1] > W)
-			return knapSack(W, wt, val, n - 1);
-		else
-			return max(val[n - 1] + knapSack(W - wt[n - 1], wt, val, n - 1), knapSack(W, wt, val, n - 1));
-	}
-
-	public static void main(String args[]) {
+	public static void main(String[] args) {
 		int val[] = new int[] { 60, 100, 120 };
-		int wt[] = new int[] { 10, 20, 30 };
-		int W = 50;
+		int wt[] = new int[] { 1, 2, 3 };
+		int W = 5;
 		int n = val.length;
-		System.out.println(knapSack(W, wt, val, n));
 		System.out.println(knapSackDP(W, wt, val, n));
 	}
-	
+
     static int knapSackDP(int W, int wt[], int val[], int n)
     {
          int i, w;
@@ -40,7 +27,17 @@ public class Knapsack {
                    K[i][w] = K[i-1][w];
          }
       }
+     
+     for (int k = 0; k < K.length; k++) {
+		for (int j = 0; j < K[k].length; j++) {
+			System.out.printf("%-5d",K[k][j]);
+		}
+		System.out.println();
+	}
       
       return K[n][W];
     }
+    static int max(int a, int b) {
+		return (a > b) ? a : b;
+	}
 }

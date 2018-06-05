@@ -46,11 +46,11 @@ public class Problem {
 				{ 945, 12, 18 }, { 946, 13, 29 }, { 974, 14, 58 }, { 948, 15, 125 }, { 949, 12, 18 }, { 9410, 13, 19 },
 				{ 9411, 14, 18 }, { 9412, 15, 25 }, { 9413, 12, 18 }, { 9414, 13, 19 }, { 9415, 14, 18 } };
 		
-//		printTimeofExecutionOfMethod(p, 300, a);
-		printTimeofExecutionOfMethod(p,7, b);
-		printTimeofExecutionOfMethod(p,5, b);
-		printTimeofExecutionOfMethod(p,9, b);
-		printTimeofExecutionOfMethod(p,8, b);
+		printTimeofExecutionOfMethod(p, 300, a);
+//		printTimeofExecutionOfMethod(p,7, b);
+//		printTimeofExecutionOfMethod(p,5, b);
+//		printTimeofExecutionOfMethod(p,9, b);
+//		printTimeofExecutionOfMethod(p,8, b);
 //		printTimeofExecutionOfMethod(p, 500, c);
 //		printTimeofExecutionOfMethod(p, 2000, d);
 
