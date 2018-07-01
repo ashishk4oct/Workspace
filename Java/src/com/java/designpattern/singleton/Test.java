@@ -13,11 +13,11 @@ public class Test {
 
 	public static void main(String[] args) {
 
-//		Singleton singleton = Singleton.getInstance();
+		Singleton singleton = Singleton.getInstance();
 		String filename = "file.ser";
         
         // Serialization 
-       /* try
+        try
         {   
             //Saving of object in a file
             FileOutputStream file = new FileOutputStream(filename);
@@ -36,7 +36,7 @@ public class Test {
         catch(IOException ex)
         {
             System.out.println("IOException is caught");
-        }*/
+        }
  
  
         Singleton singleton1 = null;
@@ -69,8 +69,8 @@ public class Test {
             System.out.println("ClassNotFoundException is caught");
         }
         
-//        singleton1.data=0;
-//        System.out.println(singleton.data);
+        singleton1.data=0;
+        System.out.println(singleton.data);
         System.out.println(singleton1.data);
 	}
 
