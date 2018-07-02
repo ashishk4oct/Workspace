@@ -1,4 +1,4 @@
-package com.java.designpattern.factory;
+package com.java.designpattern.creational.abstractt.factory;
 
 public class PC extends Computer {
 

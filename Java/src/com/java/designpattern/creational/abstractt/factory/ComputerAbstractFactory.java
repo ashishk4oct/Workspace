@@ -1,4 +1,4 @@
-package com.java.designpattern.abstractt.factory;
+package com.java.designpattern.creational.abstractt.factory;
 
 public interface ComputerAbstractFactory {
 	
