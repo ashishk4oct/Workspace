@@ -2,7 +2,6 @@ package com.java.paraller.data.processing;
 
 import java.util.concurrent.RecursiveTask;
 
-@SuppressWarnings("serial")
 public class ForkJoinSumCalculator extends RecursiveTask<Long>{
 
 	private final long[] numbers;
