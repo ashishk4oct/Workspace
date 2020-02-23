@@ -1,6 +1,8 @@
 package com.geeks.array;
 
+import java.util.ArrayList;
 import java.util.Arrays;
+import java.util.Collections;
 
 public class Smallest_greater_elements_in_whole_array {
 
@@ -11,7 +13,6 @@ public class Smallest_greater_elements_in_whole_array {
 
 	private static void smallestGreater(int[] ar, int length) {
 
-		
 		for (int i = 0; i < ar.length; i++) {
 			System.out.printf("%-3d",ar[i]);
 		}
