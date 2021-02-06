@@ -2,59 +2,47 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1f94c16c-ab7f-4211-949c-f58d2026b0cb" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../DesignPattern/src/com/headfirst/iterator/DinnerMenu.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DesignPattern/src/com/headfirst/iterator/DinnerMenuIterator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DesignPattern/src/com/headfirst/iterator/Iterator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DesignPattern/src/com/headfirst/iterator/Menu.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DesignPattern/src/com/headfirst/iterator/MenuItem.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DesignPattern/src/com/headfirst/iterator/MenuTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DesignPattern/src/com/headfirst/iterator/PancakeHouseMenu.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DesignPattern/src/com/headfirst/iterator/PancakeHouseMenuIterator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DesignPattern/src/com/headfirst/iterator/Waitress.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DesignPattern/src/com/headfirst/statepattern/GumballMachine.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DesignPattern/src/com/headfirst/statepattern/GumballMachineTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DesignPattern/src/com/headfirst/statepattern/HasQuarterState.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DesignPattern/src/com/headfirst/statepattern/NoQuarterState.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DesignPattern/src/com/headfirst/statepattern/SoldOutState.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DesignPattern/src/com/headfirst/statepattern/SoldState.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DesignPattern/src/com/headfirst/statepattern/State.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DesignPattern/src/com/headfirst/statepattern/WinnerState.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../HackerEarth/src/com/hackerrank/medium/AbsolutePermutation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../HackerEarth/src/com/hackerrank/medium/AlmostSorted.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../HackerEarth/src/com/hackerrank/medium/BearAndSteadyGene.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../HackerEarth/src/com/hackerrank/medium/ConnectedCellsGrid.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../HackerEarth/src/com/hackerrank/medium/CountLuck.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../HackerEarth/src/com/hackerrank/medium/EmasSupercomputer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../HackerEarth/src/com/hackerrank/medium/FraudulentActivityNotifications.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../HackerEarth/src/com/hackerrank/medium/LarrysArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../HackerEarth/src/com/hackerrank/medium/LilysHomework.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../HackerEarth/src/com/hackerrank/medium/LilysHomeworkOptimized.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../HackerEarth/src/com/hackerrank/medium/Pairs.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../HackerEarth/src/com/hackerrank/medium/PalindromeIndex.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../HackerEarth/src/com/hackerrank/medium/PrimsMSTSpecialSubtree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../HackerEarth/src/com/hackerrank/medium/RedKnightShortestPath.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../HackerEarth/src/com/hackerrank/medium/RustMurderer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../HackerEarth/src/com/hackerrank/medium/SherlockandAnagrams.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../HackerEarth/src/com/hackerrank/medium/SherlockandtheValidString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../HackerEarth/src/com/hackerrank/medium/SnakesAndLadders.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../HackerEarth/src/com/hackerrank/medium/TestWhatFix.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../HackerEarth/src/com/hackerrank/medium/TheBombermanGame.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../HackerEarth/src/com/whatfix/AirportTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../HackerEarth/src/com/whatfix/DealerSocket.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../HackerEarth/src/com/whatfix/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../HackerEarth/src/com/whatfix/EmployeeProjectMap.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../HackerEarth/src/com/whatfix/PerfiosTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../HackerEarth/src/com/whatfix/Settings.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../HackerEarth/src/com/whatfix/SuggessionsEngine.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../HackerEarth/src/com/whatfix/SuggestBy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../HackerEarth/src/com/whatfix/SuggestByAge.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../HackerEarth/src/com/whatfix/SuggestByGender.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../HackerEarth/src/com/whatfix/SuggestByHobbies.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HackerEarth/src/com/hackerrank/medium/BeautifulQuadruples.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HackerEarth/src/com/hackerrank/medium/CutTheTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HackerEarth/src/com/hackerrank/medium/Equal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HackerEarth/src/com/hackerrank/medium/LegoBlocksSolution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HackerEarth/src/com/hackerrank/medium/MandragoraForest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HackerEarth/src/com/hackerrank/medium/MaximumPalindromes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HackerEarth/src/com/hackerrank/medium/NikitaAndTheGame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HackerEarth/src/com/hackerrank/medium/OptimalStrategy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HackerEarth/src/com/hackerrank/medium/OrganizingContainersofBalls.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HackerEarth/src/com/hackerrank/medium/QueensAttackII.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HackerEarth/src/com/hackerrank/medium/RedJohnIsBack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HackerEarth/src/com/hackerrank/medium/SherlockAndCost.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HackerEarth/src/com/hackerrank/medium/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HackerEarth/src/com/hackerrank/medium/SubstringDiff.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HackerEarth/src/com/hackerrank/medium/TravelAroundTheWorld.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HackerEarth/src/com/hackerrank/medium/ZeroOneKnapsack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HackerEarth/src/com/interview/test1/Test1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HackerEarth/src/com/interview/test2/SolveEquation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HackerEarth/src/com/problem/amazon/Question1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HackerEarth/src/com/problem/amazon/Question2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../DesignPattern/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../DesignPattern/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../DesignPattern/src/com/headfirst/observerpattern/WeatherData.java" beforeDir="false" afterPath="$PROJECT_DIR$/../DesignPattern/src/com/headfirst/observerpattern/WeatherData.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DesignPattern/src/com/headfirst/observerpattern/CurrentConditionsDisplay.java" beforeDir="false" afterPath="$PROJECT_DIR$/../DesignPattern/src/com/headfirst/observerpattern/CurrentConditionsDisplay.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../DesignProblems/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../DesignProblems/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HackerEarth/src/com/hackerrank/medium/PrimsMSTSpecialSubtree.java" beforeDir="false" afterPath="$PROJECT_DIR$/../HackerEarth/src/com/hackerrank/medium/PrimsMSTSpecialSubtree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HackerEarth/src/com/problem/wissen/Problem.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HackerEarth/src/com/whatfix/AirportTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../HackerEarth/src/com/interview/test1/AirportTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HackerEarth/src/com/whatfix/DealerSocket.java" beforeDir="false" afterPath="$PROJECT_DIR$/../HackerEarth/src/com/interview/test1/DealerSocket.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HackerEarth/src/com/whatfix/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/../HackerEarth/src/com/interview/test1/Employee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HackerEarth/src/com/whatfix/EmployeeProjectMap.java" beforeDir="false" afterPath="$PROJECT_DIR$/../HackerEarth/src/com/interview/test1/EmployeeProjectMap.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HackerEarth/src/com/whatfix/PerfiosTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../HackerEarth/src/com/interview/test1/PerfiosTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HackerEarth/src/com/whatfix/Settings.java" beforeDir="false" afterPath="$PROJECT_DIR$/../HackerEarth/src/com/interview/test1/Settings.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HackerEarth/src/com/whatfix/SuggessionsEngine.java" beforeDir="false" afterPath="$PROJECT_DIR$/../HackerEarth/src/com/interview/test1/SuggessionsEngine.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HackerEarth/src/com/whatfix/SuggestBy.java" beforeDir="false" afterPath="$PROJECT_DIR$/../HackerEarth/src/com/interview/test1/SuggestBy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HackerEarth/src/com/whatfix/SuggestByAge.java" beforeDir="false" afterPath="$PROJECT_DIR$/../HackerEarth/src/com/interview/test1/SuggestByAge.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HackerEarth/src/com/whatfix/SuggestByGender.java" beforeDir="false" afterPath="$PROJECT_DIR$/../HackerEarth/src/com/interview/test1/SuggestByGender.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HackerEarth/src/com/whatfix/SuggestByHobbies.java" beforeDir="false" afterPath="$PROJECT_DIR$/../HackerEarth/src/com/interview/test1/SuggestByHobbies.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HackerEarth/src/com/whatfix/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/../HackerEarth/src/com/interview/test1/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HackerEarth/src/com/whatfix/TestEmployee.java" beforeDir="false" afterPath="$PROJECT_DIR$/../HackerEarth/src/com/interview/test1/TestEmployee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HackerEarth/src/com/whatfix/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/../HackerEarth/src/com/interview/test1/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../covid-19.html" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/classes/" />
     <ignored path="$PROJECT_DIR$/bin/" />
@@ -141,6 +129,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -153,12 +143,23 @@
               <item name="GeeksForGeeks" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="GeeksForGeeks" type="b2602c69:ProjectViewProjectNode" />
+              <item name="GeeksForGeeks" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="GeeksForGeeks" type="b2602c69:ProjectViewProjectNode" />
+              <item name="GeeksForGeeks" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="algo" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -255,10 +256,10 @@
       </method>
     </configuration>
     <list>
+      <item itemvalue="Application.BSTOperations" />
+      <item itemvalue="Application.ConservativeGraphOptimalSolution" />
       <item itemvalue="Application.ConservativeGraph" />
       <item itemvalue="Application.ExecuterServiceTest" />
-      <item itemvalue="Application.ConservativeGraphOptimalSolution" />
-      <item itemvalue="Application.BSTOperations" />
       <item itemvalue="Application.Test" />
     </list>
     <recent_temporary>
@@ -296,7 +297,7 @@
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24832214" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25503355" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Learn" order="3" />

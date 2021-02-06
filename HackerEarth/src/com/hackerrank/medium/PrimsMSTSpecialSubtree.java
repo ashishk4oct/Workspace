@@ -1,6 +1,6 @@
 package com.hackerrank.medium;
 
-import java.util.*;
+import java.util.Arrays;
 
 public class PrimsMSTSpecialSubtree {
 
@@ -17,88 +17,55 @@ public class PrimsMSTSpecialSubtree {
         System.out.println(i);
     }
 
-    // Complete the prims function below.
+
     static int prims(int n, int[][] edges, int start) {
-        Node[] nodesArr = getNodesArr(n, edges);
-        Node node = nodesArr[start];
 
-        Integer[] weights = getWeights(node, n);
+        int arr[] = new int[n + 1];
 
-        return getWeightsSum(weights);
-    }
+        WeightedNode edgesArr [] = new WeightedNode[edges.length];
+        int set [] = new int[n+1];
 
-    private static int getWeightsSum(Integer[] weights) {
-        Integer sum = new Integer(0);
-        for (Integer weight : weights) {
-            if(weight != null){
-                sum += weight;
+        for (int i = 0; i < edges.length ; i++) {
+            edgesArr[i] = new WeightedNode(edges[i][2], edges[i][0], edges[i][1]);
+        }
+        for (int i = 1; i <= n ; i++) {
+            set[i] = i;
+        }
+
+        Arrays.sort(edgesArr,(a,b)-> a.weight -b.weight);
+        int count = 0;
+        for(WeightedNode node  : edgesArr) {
+            if(set[node.u] == set[node.v]){
+                continue;
             }
-        }
-        return sum;
-    }
-
-    private static Integer[] getWeights(Node node, int n) {
-        return null;
-    }
-
-    private static void updateWeight(Integer[] weights, Integer weight, int number) {
-        Integer w = weights[number];
-        if(w == null || w > weight){
-            weights[number] = weight;
-        }
-    }
-
-    private static Node[] getNodesArr(int n, int[][] edges) {
-        Node nodes[] = new Node[n + 1];
-        for (int i = 0; i < edges.length; i++) {
-            Node nodeFrom = getNode(edges[i][0], nodes);
-            Node nodeTo = getNode(edges[i][1], nodes);
-            linkNodes(nodeFrom, nodeTo, edges[i][2]);
-        }
-        return nodes;
-    }
-
-    private static void linkNodes(Node node1, Node node2, int weight) {
-        linkNode(node1, node2, weight);
-        linkNode(node2, node1, weight);
-    }
-
-
-    private static void linkNode(Node node1, Node node2, int weight) {
-        if (node1.map.containsKey(node2)) {
-            int value = node1.map.get(node2);
-            if (value > weight) {
-                node1.map.put(node2, weight);
+            count += node.weight;
+            int max = set[node.u] > set[node.v] ?  set[node.u] : set[node.v];
+            int min = set[node.u] < set[node.v] ?  set[node.u] : set[node.v];
+            for (int i = 1; i <= n ; i++) {
+                if(set[i] == max){
+                    set[i] = min;
+                }
             }
-        } else {
-            node1.map.put(node2, weight);
+
         }
 
-    }
+        return count;
 
-    private static Node getNode(int i, Node[] nodes) {
-        Node node = nodes[i];
-        if (node == null) {
-            nodes[i] = new Node(i);
-            node = nodes[i];
-        }
-        return node;
     }
-
 
 }
+class WeightedNode{
+    int weight;
+    int u;
+    int v;
 
-class Node {
-    int number;
-    Map<Node, Integer> map;
-
-    Node(int number) {
-        this.number = number;
-        map = new HashMap<>();
-    }
-
-    @Override
-    public String toString() {
-        return ""+number;
+    public WeightedNode(int weight, int u, int v) {
+        this.weight = weight;
+        this.u = u;
+        this.v = v;
     }
 }
+
+
+
+

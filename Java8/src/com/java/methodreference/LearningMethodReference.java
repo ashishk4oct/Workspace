@@ -1,16 +1,10 @@
 package com.java.methodreference;
 
-import java.util.ArrayList;
-import java.util.Arrays;
-import java.util.Collection;
-import java.util.Collections;
-import java.util.Comparator;
-import java.util.List;
+import java.util.*;
 
 public class LearningMethodReference {
 
 	public static void main(String[] args) {
-
 		List<Integer> list = new ArrayList<Integer>();
 		list.addAll(Arrays.asList(6,7,17,8,8,9,1,2,13,4));
 		
@@ -19,7 +13,7 @@ public class LearningMethodReference {
 		}
 		
 		list.sort((Integer o1, Integer o2) -> o2.compareTo(o1));
-//		Collections.sort(list, new Descending() );
+//		Collections.sort (list, new Descending() );
 
 		System.out.println();
 		for (Integer integer : list) {

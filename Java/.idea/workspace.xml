@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="925cc182-d898-4433-b52e-d9965d1243de" name="Default Changelist" comment="">
+    <list default="true" id="030b86a1-b498-40d0-95b6-3b54e1a72288" name="Default Changelist" comment="">
       <change afterPath="$PROJECT_DIR$/../HackerEarth/index" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../HackerEarth/src/com/gfg/problem/PrintAllPermutations.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../HackerEarth/src/com/hackerrank/hard/BinaryIndexedTree.java" afterDir="false" />
@@ -25,6 +25,9 @@
       <change afterPath="$PROJECT_DIR$/../HackerEarth/src/com/hackerrank/medium/SubstringDiff.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../HackerEarth/src/com/hackerrank/medium/TravelAroundTheWorld.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../HackerEarth/src/com/hackerrank/medium/ZeroOneKnapsack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HackerEarth/src/com/interview/ihs/Problem1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HackerEarth/src/com/interview/ihs/Problem2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HackerEarth/src/com/interview/ihs/Problem3.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../HackerEarth/src/com/interview/test1/Test1.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../HackerEarth/src/com/interview/test2/SolveEquation.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../HackerEarth/src/com/problem/amazon/Question1.java" afterDir="false" />
@@ -33,7 +36,7 @@
       <change beforePath="$PROJECT_DIR$/../DesignPattern/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../DesignPattern/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../DesignPattern/src/com/headfirst/observerpattern/CurrentConditionsDisplay.java" beforeDir="false" afterPath="$PROJECT_DIR$/../DesignPattern/src/com/headfirst/observerpattern/CurrentConditionsDisplay.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../DesignPattern/src/com/learing/creation/builder/TestBuilderPattern.java" beforeDir="false" afterPath="$PROJECT_DIR$/../DesignPattern/src/com/learing/creation/builder/TestBuilderPattern.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DesignProblems/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../DesignProblems/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../GeeksForGeeks/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../GeeksForGeeks/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../HackerEarth/src/com/hackerrank/medium/PrimsMSTSpecialSubtree.java" beforeDir="false" afterPath="$PROJECT_DIR$/../HackerEarth/src/com/hackerrank/medium/PrimsMSTSpecialSubtree.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../HackerEarth/src/com/leetcode/problems/LongestValidParentheses.java" beforeDir="false" afterPath="$PROJECT_DIR$/../HackerEarth/src/com/leetcode/problems/LongestValidParentheses.java" afterDir="false" />
@@ -56,7 +59,8 @@
       <change beforePath="$PROJECT_DIR$/../Java8/src/com/java/methodreference/LearningMethodReference.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Java8/src/com/java/methodreference/LearningMethodReference.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../covid-19.html" beforeDir="false" />
     </list>
-    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/classes/" />
+    <ignored path="$PROJECT_DIR$/bin/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,83 +68,30 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="DefaultGradleProjectSettings">
-    <option name="isMigrated" value="true" />
-  </component>
-  <component name="FileEditorManager">
-    <leaf />
-  </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="Enum" />
-        <option value="Singleton" />
-        <option value="Class" />
-      </list>
-    </option>
-  </component>
-  <component name="FindInProjectRecents">
-    <findStrings>
-      <find>public</find>
-    </findStrings>
+    <option name="testRunner" value="GRADLE" />
+    <option name="delegatedBuild" value="true" />
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="IdeDocumentHistory">
-    <option name="CHANGED_PATHS">
-      <list>
-        <option value="$PROJECT_DIR$/src/com/design/parkinglot/Person.java" />
-        <option value="$PROJECT_DIR$/src/com/design/parkinglot/Address.java" />
-        <option value="$PROJECT_DIR$/src/com/design/parkinglot/ParkingSpotType.java" />
-        <option value="$PROJECT_DIR$/src/com/design/parkinglot/VehicleType.java" />
-        <option value="$PROJECT_DIR$/src/com/design/parkinglot/AccountStatus.java" />
-        <option value="$PROJECT_DIR$/src/com/design/parkinglot/ParkingTicketStatus.java" />
-        <option value="$PROJECT_DIR$/src/com/design/parkinglot/Account.java" />
-        <option value="$PROJECT_DIR$/src/com/design/parkinglot/Admin.java" />
-        <option value="$PROJECT_DIR$/src/com/design/parkinglot/ParkingAttendant.java" />
-        <option value="$PROJECT_DIR$/src/com/design/parkinglot/ParkingSpot.java" />
-        <option value="$PROJECT_DIR$/src/com/design/parkinglot/Vehicle.java" />
-      </list>
-    </option>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="953" />
+    <option name="width" value="974" />
+    <option name="height" value="1047" />
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="950" />
-    <option name="y" value="-10" />
-    <option name="width" value="980" />
-    <option name="height" value="1050" />
-  </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
-    <ConfirmationsSetting value="2" id="Add" />
-  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="DesignProblems" type="b2602c69:ProjectViewProjectNode" />
-              <item name="DesignProblems" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="DesignProblems" type="b2602c69:ProjectViewProjectNode" />
-              <item name="DesignProblems" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
       <pane id="Scope" />
+      <pane id="ProjectPane" />
       <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../HackerEarth" />
-    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -154,38 +105,26 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="Main" />
-      <module name="DesignProblems" />
-      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
-      <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Run" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="925cc182-d898-4433-b52e-d9965d1243de" name="Default Changelist" comment="" />
-      <created>1573372537971</created>
+      <changelist id="030b86a1-b498-40d0-95b6-3b54e1a72288" name="Default Changelist" comment="" />
+      <created>1599318220482</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1573372537971</updated>
+      <updated>1599318220482</updated>
     </task>
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="953" y="0" width="974" height="1047" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26972282" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.5251641" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
-      <window_info id="Learn" order="3" weight="0.3295302" />
+      <window_info id="Learn" order="3" />
       <window_info id="Favorites" order="4" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
@@ -204,24 +143,20 @@
       <window_info anchor="right" id="Palette&#9;" order="4" />
     </layout>
   </component>
-  <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Main.java" />
-    <entry file="file://$PROJECT_DIR$/src/com/design/parkinglot/enums/ParkingTicketStatus.java" />
-    <entry file="file://$PROJECT_DIR$/src/com/design/parkinglot/enums/AccountStatus.java" />
-    <entry file="file://$PROJECT_DIR$/src/com/design/parkinglot/enums/ParkingSpotType.java" />
-    <entry file="file://$PROJECT_DIR$/src/com/design/parkinglot/enums/VehicleType.java" />
-    <entry file="file://$PROJECT_DIR$/src/com/design/parkinglot/bean/Address.java" />
-    <entry file="file://$PROJECT_DIR$/src/com/design/parkinglot/bean/Person.java" />
-    <entry file="file://$PROJECT_DIR$/src/com/design/parkinglot/ParkingFloor.java" />
-    <entry file="file://$PROJECT_DIR$/src/com/design/parkinglot/ParkingDisplayBoard.java" />
-    <entry file="file://$PROJECT_DIR$/src/com/design/parkinglot/CustomerInfoPanel.java" />
-    <entry file="file://$PROJECT_DIR$/src/com/design/parkinglot/EntrancePanel.java" />
-    <entry file="file://$PROJECT_DIR$/src/com/design/parkinglot/ExitPanel.java" />
-    <entry file="file://$PROJECT_DIR$/src/com/design/parkinglot/Account.java" />
-    <entry file="file://$PROJECT_DIR$/src/com/design/parkinglot/Admin.java" />
-    <entry file="file://$PROJECT_DIR$/src/com/design/parkinglot/ParkingAttendant.java" />
-    <entry file="file://$PROJECT_DIR$/src/com/design/parkinglot/ParkingSpot.java" />
-    <entry file="file://$PROJECT_DIR$/src/com/design/parkinglot/ParkingTicket.java" />
-    <entry file="file://$PROJECT_DIR$/src/com/design/parkinglot/Vehicle.java" />
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
   </component>
 </project>
