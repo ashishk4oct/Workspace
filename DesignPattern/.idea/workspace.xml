@@ -2,60 +2,39 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="96be544f-27a7-448b-aa84-cd3a119e2b5e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../HackerEarth/index" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../HackerEarth/src/com/gfg/problem/PrintAllPermutations.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../HackerEarth/src/com/hackerrank/hard/BinaryIndexedTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../HackerEarth/src/com/hackerrank/hard/BinaryIndexedTreeTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../HackerEarth/src/com/hackerrank/hard/CardsPermutation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../HackerEarth/src/com/hackerrank/medium/BeautifulQuadruples.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../HackerEarth/src/com/hackerrank/medium/BreadthFirstSearchShortestReach.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../HackerEarth/src/com/hackerrank/medium/CutTheTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../HackerEarth/src/com/hackerrank/medium/Equal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../HackerEarth/src/com/hackerrank/medium/LegoBlocksSolution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../HackerEarth/src/com/hackerrank/medium/LongestValidParentheses.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../HackerEarth/src/com/hackerrank/medium/MandragoraForest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../HackerEarth/src/com/hackerrank/medium/MaximumPalindromes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../HackerEarth/src/com/hackerrank/medium/NikitaAndTheGame.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../HackerEarth/src/com/hackerrank/medium/OptimalStrategy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../HackerEarth/src/com/hackerrank/medium/OrganizingContainersofBalls.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../HackerEarth/src/com/hackerrank/medium/QueensAttackII.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../HackerEarth/src/com/hackerrank/medium/RedJohnIsBack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../HackerEarth/src/com/hackerrank/medium/SherlockAndCost.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../HackerEarth/src/com/hackerrank/medium/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../HackerEarth/src/com/hackerrank/medium/SubstringDiff.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../HackerEarth/src/com/hackerrank/medium/TravelAroundTheWorld.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../HackerEarth/src/com/hackerrank/medium/ZeroOneKnapsack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../HackerEarth/src/com/interview/ihs/Problem1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../HackerEarth/src/com/interview/test1/Test1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../HackerEarth/src/com/interview/test2/SolveEquation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../HackerEarth/src/com/problem/amazon/Question1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../HackerEarth/src/com/problem/amazon/Question2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Java8/src/com/java/streams/exceptionhandling/Sample1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HackerEarth/src/com/codechef/easy/BuyingSweets.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HackerEarth/src/com/codechef/easy/CountingPrettyNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HackerEarth/src/com/codechef/easy/DeliveryMan.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HackerEarth/src/com/codechef/easy/Elevator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HackerEarth/src/com/codechef/easy/Kamehameha.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HackerEarth/src/com/codechef/easy/Reader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HackerEarth/src/com/codechef/easy/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HackerEarth/src/com/codechef/medium/CountingStrings.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HackerEarth/src/com/codechef/medium/RootOfTheProblem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HackerEarth/src/com/codechef/medium/SUBLCM.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HackerEarth/src/com/gfg/problem/CountInversions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HackerEarth/src/com/gfg/problem/Tough.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HackerEarth/src/com/interview/clearwater/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HackerEarth/src/com/interview/informatica/Problem2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HackerEarth/src/com/java/concepts/InterfaceTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HackerEarth/src/com/util/Printer.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/headfirst/observerpattern/CurrentConditionsDisplay.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/headfirst/observerpattern/CurrentConditionsDisplay.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/learing/creation/builder/TestBuilderPattern.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/learing/creation/builder/TestBuilderPattern.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../DesignProblems/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../DesignProblems/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../GeeksForGeeks/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../GeeksForGeeks/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../HackerEarth/src/com/hackerrank/medium/PrimsMSTSpecialSubtree.java" beforeDir="false" afterPath="$PROJECT_DIR$/../HackerEarth/src/com/hackerrank/medium/PrimsMSTSpecialSubtree.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../HackerEarth/src/com/leetcode/problems/LongestValidParentheses.java" beforeDir="false" afterPath="$PROJECT_DIR$/../HackerEarth/src/com/leetcode/problems/LongestValidParentheses.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../HackerEarth/src/com/problem/wissen/Problem.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../HackerEarth/src/com/whatfix/AirportTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../HackerEarth/src/com/interview/test1/AirportTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../HackerEarth/src/com/whatfix/DealerSocket.java" beforeDir="false" afterPath="$PROJECT_DIR$/../HackerEarth/src/com/interview/test1/DealerSocket.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../HackerEarth/src/com/whatfix/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/../HackerEarth/src/com/interview/test1/Employee.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../HackerEarth/src/com/whatfix/EmployeeProjectMap.java" beforeDir="false" afterPath="$PROJECT_DIR$/../HackerEarth/src/com/interview/test1/EmployeeProjectMap.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../HackerEarth/src/com/whatfix/PerfiosTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../HackerEarth/src/com/interview/test1/PerfiosTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../HackerEarth/src/com/whatfix/Settings.java" beforeDir="false" afterPath="$PROJECT_DIR$/../HackerEarth/src/com/interview/test1/Settings.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../HackerEarth/src/com/whatfix/SuggessionsEngine.java" beforeDir="false" afterPath="$PROJECT_DIR$/../HackerEarth/src/com/interview/test1/SuggessionsEngine.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../HackerEarth/src/com/whatfix/SuggestBy.java" beforeDir="false" afterPath="$PROJECT_DIR$/../HackerEarth/src/com/interview/test1/SuggestBy.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../HackerEarth/src/com/whatfix/SuggestByAge.java" beforeDir="false" afterPath="$PROJECT_DIR$/../HackerEarth/src/com/interview/test1/SuggestByAge.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../HackerEarth/src/com/whatfix/SuggestByGender.java" beforeDir="false" afterPath="$PROJECT_DIR$/../HackerEarth/src/com/interview/test1/SuggestByGender.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../HackerEarth/src/com/whatfix/SuggestByHobbies.java" beforeDir="false" afterPath="$PROJECT_DIR$/../HackerEarth/src/com/interview/test1/SuggestByHobbies.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../HackerEarth/src/com/whatfix/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/../HackerEarth/src/com/interview/test1/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../HackerEarth/src/com/whatfix/TestEmployee.java" beforeDir="false" afterPath="$PROJECT_DIR$/../HackerEarth/src/com/interview/test1/TestEmployee.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../HackerEarth/src/com/whatfix/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/../HackerEarth/src/com/interview/test1/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/learing/creation/prototype/Employees.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/learing/creation/prototype/Employees.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HackerEarth/src/com/geekforgeeks/beginner/StairsPermutationProblem.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HackerEarth/src/com/hackerrank/medium/BeautifulQuadruples.java" beforeDir="false" afterPath="$PROJECT_DIR$/../HackerEarth/src/com/hackerrank/medium/BeautifulQuadruples.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HackerEarth/src/com/hackerrank/medium/Bouquets.java" beforeDir="false" afterPath="$PROJECT_DIR$/../HackerEarth/src/com/hackerrank/medium/Bouquets.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HackerEarth/src/com/hackerrank/medium/JackGoesToRapture.java" beforeDir="false" afterPath="$PROJECT_DIR$/../HackerEarth/src/com/hackerrank/medium/JackGoesToRapture.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HackerEarth/src/com/hackerrank/medium/MaxSumSubArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/../HackerEarth/src/com/hackerrank/medium/MaxSumSubArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HackerEarth/src/com/hackerrank/medium/PrimeXOR.java" beforeDir="false" afterPath="$PROJECT_DIR$/../HackerEarth/src/com/hackerrank/medium/PrimeXOR.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HackerEarth/src/com/hackerrank/medium/StockMaximize.java" beforeDir="false" afterPath="$PROJECT_DIR$/../HackerEarth/src/com/hackerrank/medium/StockMaximize.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HackerEarth/src/com/interview/boa/Problem1.java" beforeDir="false" afterPath="$PROJECT_DIR$/../HackerEarth/src/com/interview/boa/Problem1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HackerEarth/src/com/interview/informatica/Problem1.java" beforeDir="false" afterPath="$PROJECT_DIR$/../HackerEarth/src/com/interview/informatica/Problem1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HackerEarth/src/com/java/multithreading/ScheduledThreadPoolExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/../HackerEarth/src/com/java/multithreading/ScheduledThreadPoolExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HackerEarth/src/com/java/multithreading/ThreadExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/../HackerEarth/src/com/java/multithreading/ThreadExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HackerEarth/src/com/java/multithreading/my/producer/consumer/MyProducerConsumer.java" beforeDir="false" afterPath="$PROJECT_DIR$/../HackerEarth/src/com/java/multithreading/my/producer/consumer/MyProducerConsumer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HackerEarth/src/com/util/RandomUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/../HackerEarth/src/com/util/RandomUtil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Java/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Java8/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Java8/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java8/src/com/java/methodreference/LearningMethodReference.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Java8/src/com/java/methodreference/LearningMethodReference.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../covid-19.html" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/classes/" />
     <ignored path="$PROJECT_DIR$/bin/" />
@@ -69,7 +48,30 @@
     <option name="isMigrated" value="true" />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/learing/creation/builder/Computer.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1166">
+              <caret line="64" lean-forward="true" selection-start-line="61" selection-start-column="8" selection-end-line="64" />
+              <folding>
+                <element signature="e#1345#1346#0" expanded="true" />
+                <element signature="e#1379#1380#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/learing/creation/builder/TestBuilderPattern.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="220">
+              <caret line="10" column="51" selection-start-line="10" selection-start-column="46" selection-end-line="10" selection-end-column="51" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -106,7 +108,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/com/headfirst/decorator/SteamedMilk.java" />
         <option value="$PROJECT_DIR$/src/com/headfirst/decorator/Soy.java" />
         <option value="$PROJECT_DIR$/src/com/headfirst/decorator/Whip.java" />
         <option value="$PROJECT_DIR$/src/com/headfirst/decorator/StarbuzzCoffee.java" />
@@ -157,14 +158,15 @@
         <option value="$PROJECT_DIR$/src/com/headfirst/strategypattern/simuduckapp/ducks/Duck.java" />
         <option value="$PROJECT_DIR$/src/com/headfirst/decorator/CondimentDecorator.java" />
         <option value="$PROJECT_DIR$/src/com/learing/creation/builder/TestBuilderPattern.java" />
+        <option value="$PROJECT_DIR$/src/com/learing/creation/prototype/Employees.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-9" />
-    <option name="y" value="-9" />
-    <option name="width" value="1550" />
-    <option name="height" value="880" />
+    <option name="x" value="-15" />
+    <option name="y" value="-15" />
+    <option name="width" value="2423" />
+    <option name="height" value="1375" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -176,8 +178,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -216,12 +216,14 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="com" type="462c0819:PsiDirectoryNode" />
               <item name="creation" type="462c0819:PsiDirectoryNode" />
-              <item name="prototype" type="462c0819:PsiDirectoryNode" />
+              <item name="builder" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -256,7 +258,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Test (1)">
+  <component name="RunManager" selected="Application.RemoteControlTest">
     <configuration name="DuckTestDrive" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.headfirst.adapterandfacard.DuckTestDrive" />
       <module name="DesignPattern" />
@@ -296,6 +298,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="RemoteControlTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.headfirst.commandpattern.RemoteControlTest" />
+      <module name="DesignPattern" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.headfirst.commandpattern.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Test (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.headfirst.statepattern.Test" />
       <module name="DesignPattern" />
@@ -309,26 +324,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.headfirst.adapterandfacard.Test" />
-      <module name="DesignPattern" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.headfirst.adapterandfacard.t.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.RemoteControlTest" />
+        <item itemvalue="Application.DuckTestDrive" />
         <item itemvalue="Application.Test (1)" />
         <item itemvalue="Application.GumballMachineTest" />
         <item itemvalue="Application.MenuTest" />
-        <item itemvalue="Application.DuckTestDrive" />
-        <item itemvalue="Application.Test" />
       </list>
     </recent_temporary>
   </component>
@@ -347,15 +349,16 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24563758" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2409396" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Learn" order="3" />
       <window_info id="Favorites" order="4" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3286119" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.3286119" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.42917848" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39943343" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -395,118 +398,24 @@
     </layout-to-restore>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/com/headfirst/strategypattern/simuduckapp/behavior/Squeak.java">
+    <entry file="file://$PROJECT_DIR$/src/com/headfirst/observerpattern/StatisticsDisplay.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="44">
           <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/headfirst/strategypattern/simuduckapp/behavior/MuteQuack.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/headfirst/observerpattern/DisplayElements.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="66">
-          <caret line="3" column="16" selection-start-line="3" selection-start-column="9" selection-end-line="3" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/headfirst/observerpattern/Subject.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="110">
-          <caret line="5" column="23" selection-start-line="5" selection-start-column="9" selection-end-line="5" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/headfirst/observerpattern/StatisticsDisplay.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="44">
-          <caret line="2" column="42" selection-start-line="2" selection-start-column="42" selection-end-line="2" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/headfirst/observerpattern/CurrentConditionsDisplay.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="8" column="12" selection-start-line="8" selection-start-column="12" selection-end-line="8" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/headfirst/observerpattern/java/WeatherData.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="11" column="14" lean-forward="true" selection-start-line="11" selection-start-column="14" selection-end-line="11" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/util/Observable.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="290">
-          <caret line="61" column="13" selection-start-line="61" selection-start-column="13" selection-end-line="61" selection-end-column="23" />
-          <folding>
-            <element signature="e#5937#5938#0" expanded="true" />
-            <element signature="e#5967#5968#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/headfirst/observerpattern/java/CurrentConditionsDisplay.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="11" column="18" selection-start-line="11" selection-start-column="18" selection-end-line="11" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/headfirst/observerpattern/WeatherStation.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="242">
-          <caret line="11" column="30" lean-forward="true" selection-start-line="11" selection-start-column="30" selection-end-line="11" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/headfirst/observerpattern/Observer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="88">
-          <caret line="4" column="9" selection-start-line="4" selection-start-column="9" selection-end-line="4" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/headfirst/observerpattern/ForecastDisplay.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="440">
-          <caret line="20" column="16" selection-start-line="20" selection-start-column="16" selection-end-line="20" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/headfirst/strategypattern/simuduckapp/ducks/MallardDuck.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="88">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/headfirst/strategypattern/simuduckapp/ducks/Duck.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="13" lean-forward="true" selection-start-line="7" selection-end-line="31" />
-          <folding>
-            <element signature="e#589#590#0" expanded="true" />
-            <element signature="e#639#640#0" expanded="true" />
-            <element signature="e#745#746#0" expanded="true" />
-            <element signature="e#783#784#0" expanded="true" />
-          </folding>
+          <caret line="11" column="33" lean-forward="true" selection-start-line="11" selection-start-column="33" selection-end-line="11" selection-end-column="33" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/headfirst/observerpattern/WeatherData.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="81">
-          <caret line="8" column="27" lean-forward="true" selection-start-line="8" selection-start-column="27" selection-end-line="8" selection-end-column="27" />
+        <state relative-caret-position="410">
+          <caret line="28" column="25" selection-start-line="28" selection-start-column="25" selection-end-line="28" selection-end-column="25" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#289#290#0" expanded="true" />
@@ -517,98 +426,70 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/headfirst/decorator/DarkRoast.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-7">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/headfirst/decorator/CondimentDecorator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="44">
-          <caret line="2" column="53" selection-start-line="2" selection-start-column="53" selection-end-line="2" selection-end-column="53" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/headfirst/decorator/Beverage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="10" column="29" lean-forward="true" selection-start-line="10" selection-start-column="29" selection-end-line="10" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/headfirst/decorator/Decaf.java">
+    <entry file="file://$PROJECT_DIR$/src/com/headfirst/observerpattern/ForecastDisplay.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="44">
           <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/headfirst/decorator/Espresso.java">
+    <entry file="file://$PROJECT_DIR$/src/com/learing/creation/factory/ComputerFactory.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="44">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        <state relative-caret-position="88">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/headfirst/decorator/HouseBlend.java">
+    <entry file="file://$PROJECT_DIR$/src/com/learing/creation/factory/TestFactory.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="44">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        <state relative-caret-position="88">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/headfirst/decorator/Mocha.java">
+    <entry file="file://$PROJECT_DIR$/src/com/learing/creation/prototype/Employees.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="44">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/headfirst/decorator/Soy.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="44">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/headfirst/decorator/StarbuzzCoffee.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="110">
-          <caret line="5" column="12" selection-start-line="5" selection-start-column="12" selection-end-line="5" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/headfirst/decorator/SteamedMilk.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="44">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/headfirst/decorator/Whip.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="44">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/learing/creation/builder/Computer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1166">
-          <caret line="61" column="24" selection-start-line="61" selection-start-column="24" selection-end-line="61" selection-end-column="24" />
+        <state relative-caret-position="440">
+          <caret line="26" column="23" selection-start-line="26" selection-start-column="23" selection-end-line="26" selection-end-column="23" />
           <folding>
-            <element signature="e#1345#1346#0" expanded="true" />
-            <element signature="e#1379#1380#0" expanded="true" />
+            <element signature="imports" expanded="true" />
+            <element signature="e#198#199#0" expanded="true" />
+            <element signature="e#247#248#0" expanded="true" />
+            <element signature="e#290#291#0" expanded="true" />
+            <element signature="e#325#326#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/learing/creation/builder/TestBuilderPattern.java">
+    <entry file="file://$PROJECT_DIR$/src/com/learing/creation/prototype/PrototypePatternTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="242">
-          <caret line="11" selection-start-line="7" selection-end-line="11" />
+        <state relative-caret-position="88">
+          <caret line="4" column="26" selection-start-line="4" selection-start-column="26" selection-end-line="4" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/learing/creation/Computer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="4" column="27" selection-start-line="4" selection-start-column="27" selection-end-line="4" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/learing/creation/PC.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/learing/creation/Server.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="440">
+          <caret line="22" column="5" lean-forward="true" selection-start-line="22" selection-start-column="5" selection-end-line="22" selection-end-column="5" />
+          <folding>
+            <element signature="e#281#282#0" expanded="true" />
+            <element signature="e#303#304#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -619,24 +500,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/headfirst/adapterandfacard/MallardDuck.java">
+    <entry file="file://$PROJECT_DIR$/src/com/headfirst/adapterandfacard/Turkey.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="44">
-          <caret line="2" column="38" selection-start-line="2" selection-start-column="38" selection-end-line="2" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/headfirst/adapterandfacard/WildTurkey.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="44">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        <state relative-caret-position="110">
+          <caret line="5" column="17" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/headfirst/adapterandfacard/TurkeyAdapter.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="132">
-          <caret line="6" column="11" selection-start-line="6" selection-start-column="11" selection-end-line="6" selection-end-column="11" />
+        <state relative-caret-position="66">
+          <caret line="3" column="42" selection-start-line="3" selection-start-column="38" selection-end-line="3" selection-end-column="42" />
           <folding>
             <element signature="e#154#155#0" expanded="true" />
             <element signature="e#190#191#0" expanded="true" />
@@ -644,17 +518,73 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/headfirst/adapterandfacard/WildTurkey.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="6" column="37" selection-start-line="5" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/headfirst/adapterandfacard/MallardDuck.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="38" selection-start-line="2" selection-start-column="38" selection-end-line="2" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/headfirst/adapterandfacard/DuckTestDrive.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="9" column="42" selection-start-line="9" selection-start-column="42" selection-end-line="9" selection-end-column="42" />
+        <state relative-caret-position="308">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/headfirst/commandpattern/Command.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/headfirst/commandpattern/GarageDoor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/headfirst/commandpattern/LightOffCommand.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/headfirst/commandpattern/LightOnCommand.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/headfirst/commandpattern/NoCommand.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="44">
-          <caret line="2" column="39" selection-start-line="2" selection-start-column="39" selection-end-line="2" selection-end-column="39" />
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/headfirst/commandpattern/RemoteControl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="217">
+          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/headfirst/commandpattern/SimpleRemoteControl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="11" column="20" selection-start-line="11" selection-start-column="20" selection-end-line="11" selection-end-column="20" />
         </state>
       </provider>
     </entry>
@@ -672,142 +602,198 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/headfirst/commandpattern/GarageDoor.java">
+    <entry file="file://$PROJECT_DIR$/src/com/headfirst/commandpattern/RemoteControlTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="44">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        <state relative-caret-position="264">
+          <caret line="12" column="21" selection-start-line="12" selection-start-column="21" selection-end-line="12" selection-end-column="21" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/headfirst/commandpattern/Command.java">
+    <entry file="file://$PROJECT_DIR$/src/com/headfirst/iterator/DinnerMenu.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="506">
+          <caret line="25" column="49" selection-start-line="25" selection-start-column="49" selection-end-line="25" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/headfirst/iterator/Iterator.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="44">
           <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/headfirst/commandpattern/LightOffCommand.java">
+    <entry file="file://$PROJECT_DIR$/src/com/headfirst/iterator/Menu.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/headfirst/iterator/MenuItem.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="44">
           <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/headfirst/commandpattern/LightOnCommand.java">
+    <entry file="file://$PROJECT_DIR$/src/com/headfirst/iterator/MenuTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="132">
-          <caret line="6" column="29" selection-start-line="6" selection-start-column="29" selection-end-line="6" selection-end-column="29" />
-          <folding>
-            <element signature="e#145#146#0" expanded="true" />
-            <element signature="e#179#180#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="242">
+          <caret line="11" column="22" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="26" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/headfirst/commandpattern/SimpleRemoteControl.java">
+    <entry file="file://$PROJECT_DIR$/src/com/headfirst/iterator/Waitress.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="154">
-          <caret line="7" column="16" selection-start-line="7" selection-start-column="16" selection-end-line="7" selection-end-column="16" />
-          <folding>
-            <element signature="e#173#174#0" expanded="true" />
-            <element signature="e#208#209#0" expanded="true" />
-            <element signature="e#244#245#0" expanded="true" />
-            <element signature="e#274#275#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="242">
+          <caret line="13" column="52" selection-start-line="13" selection-start-column="52" selection-end-line="13" selection-end-column="52" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/headfirst/commandpattern/RemoteControl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="396">
-          <caret line="18" column="46" selection-start-line="18" selection-start-column="46" selection-end-line="18" selection-end-column="46" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/headfirst/commandpattern/RemoteControlTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="396">
-          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/headfirst/statepattern/SoldOutState.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="44">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/headfirst/statepattern/State.java">
+    <entry file="file://$PROJECT_DIR$/src/com/headfirst/observerpattern/Observer.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="88">
-          <caret line="4" column="9" selection-start-line="4" selection-start-column="9" selection-end-line="4" selection-end-column="22" />
+          <caret line="4" column="9" selection-start-line="4" selection-start-column="9" selection-end-line="4" selection-end-column="9" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/headfirst/statepattern/NoQuarterState.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="12" column="62" selection-start-line="12" selection-start-column="62" selection-end-line="12" selection-end-column="62" />
-          <folding>
-            <element signature="e#177#178#0" expanded="true" />
-            <element signature="e#229#230#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/headfirst/statepattern/HasQuarterState.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="440">
-          <caret line="22" column="16" selection-start-line="22" selection-start-column="16" selection-end-line="22" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/headfirst/statepattern/SoldState.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="572">
-          <caret line="32" column="61" lean-forward="true" selection-start-line="32" selection-start-column="61" selection-end-line="32" selection-end-column="61" />
-          <folding>
-            <element signature="e#268#269#0" expanded="true" />
-            <element signature="e#353#354#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/headfirst/statepattern/GumballMachine.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="542">
-          <caret line="68" column="16" selection-start-line="68" selection-start-column="16" selection-end-line="68" selection-end-column="16" />
-          <folding>
-            <element signature="e#849#850#0" expanded="true" />
-            <element signature="e#877#878#0" expanded="true" />
-            <element signature="e#1058#1059#0" expanded="true" />
-            <element signature="e#1096#1097#0" expanded="true" />
-            <element signature="e#1136#1137#0" expanded="true" />
-            <element signature="e#1173#1174#0" expanded="true" />
-            <element signature="e#1293#1294#0" expanded="true" />
-            <element signature="e#1335#1336#0" expanded="true" />
-            <element signature="e#1383#1384#0" expanded="true" />
-            <element signature="e#1424#1425#0" expanded="true" />
-            <element signature="e#1469#1470#0" expanded="true" />
-            <element signature="e#1507#1508#0" expanded="true" />
-            <element signature="e#1551#1552#0" expanded="true" />
-            <element signature="e#1588#1589#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/headfirst/statepattern/GumballMachineTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="308">
-          <caret line="14" column="29" lean-forward="true" selection-start-line="14" selection-start-column="29" selection-end-line="14" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/headfirst/statepattern/WinnerState.java">
+    <entry file="file://$PROJECT_DIR$/src/com/headfirst/observerpattern/Subject.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="44">
-          <caret line="2" column="38" selection-start-line="2" selection-start-column="38" selection-end-line="2" selection-end-column="38" />
+          <caret line="2" column="20" selection-start-line="2" selection-start-column="20" selection-end-line="2" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/headfirst/observerpattern/DisplayElements.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/headfirst/observerpattern/CurrentConditionsDisplay.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="6" column="20" selection-start-line="6" selection-start-column="20" selection-end-line="6" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/headfirst/decorator/Soy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/headfirst/decorator/Beverage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="22" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/headfirst/decorator/CondimentDecorator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="54" lean-forward="true" selection-start-line="2" selection-start-column="54" selection-end-line="2" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/headfirst/decorator/Espresso.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="4" column="11" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="11" />
+          <folding>
+            <element signature="e#97#98#0" expanded="true" />
+            <element signature="e#137#138#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/headfirst/decorator/Decaf.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/headfirst/decorator/SteamedMilk.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/headfirst/decorator/DarkRoast.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="4" column="11" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="11" />
+          <folding>
+            <element signature="e#99#100#0" expanded="true" />
+            <element signature="e#140#141#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/headfirst/decorator/HouseBlend.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/headfirst/decorator/Mocha.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="6" column="11" selection-start-line="6" selection-start-column="11" selection-end-line="6" selection-end-column="11" />
+          <folding>
+            <element signature="e#142#143#0" expanded="true" />
+            <element signature="e#182#183#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/headfirst/decorator/Whip.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="6" column="11" selection-start-line="6" selection-start-column="11" selection-end-line="6" selection-end-column="11" />
+          <folding>
+            <element signature="e#140#141#0" expanded="true" />
+            <element signature="e#180#181#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/headfirst/decorator/StarbuzzCoffee.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="11" column="27" lean-forward="true" selection-start-line="11" selection-start-column="27" selection-end-line="11" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/headfirst/iterator/DinnerMenuIterator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="484">
+          <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/learing/creation/builder/TestBuilderPattern.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="10" column="51" selection-start-line="10" selection-start-column="46" selection-end-line="10" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/learing/creation/builder/Computer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1166">
+          <caret line="64" lean-forward="true" selection-start-line="61" selection-start-column="8" selection-end-line="64" />
+          <folding>
+            <element signature="e#1345#1346#0" expanded="true" />
+            <element signature="e#1379#1380#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

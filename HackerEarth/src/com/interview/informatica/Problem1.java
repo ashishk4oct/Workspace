@@ -1,49 +1,67 @@
 package com.interview.informatica;
 
+import com.util.Printer;
 import com.util.RandomUtil;
 
-import java.util.ArrayList;
-import java.util.HashSet;
-import java.util.List;
-import java.util.Set;
+import java.util.Arrays;
 
 public class Problem1 {
 
     public static void main(String[] args) {
 
-        List<String> lines = new ArrayList<>();
-        for (int i : RandomUtil.generateRandom(20, 0, 15)) {
-            lines.add(i+"");
-            System.out.print(" "+i);
-        }
-        System.out.println();
-        String text = "4";
-        int context = 4;
+        int arr[] = RandomUtil.generateRandom(10000,0,65536,true);
+        Printer.print(arr);
+        String str = "";
 
-        List<Integer> list = new ArrayList<>();
-        for (int i = 0; i < lines.size() ; i++) {
-            if(lines.get(i).equalsIgnoreCase(text)){
-                list.add(i);
-            }
+        for (int i = 0; i < arr.length ; i++) {
+            str += (char)arr[i];
         }
-
-        Set<String> set = new HashSet<>();
-        int pointer = 0;
-        for (Integer i : list){
-            pointer = (i-context) > pointer ? i-context : pointer;
-            for (; pointer <= i ; pointer++) {
-                if(!set.contains(lines.get(pointer))){
-                    System.out.print(" "+lines.get(pointer));
-                    set.add(lines.get(pointer));
-                }
-            }
-            for ( ; pointer <= i+context && pointer < lines.size() ; pointer++){
-                if(!set.contains(lines.get(pointer))){
-                    System.out.print(" "+lines.get(pointer));
-                    set.add(lines.get(pointer));
-                }
-            }
-        }
-
+        System.out.println(findKthMax(str,1));
     }
+
+    public static char findKthMax(String arr  , int k){
+
+        System.out.println(arr);
+        char charArr[] = arr.toCharArray();
+
+        int countArr [] = new int [65536];
+        int sortCountArr [] = new int [65536];
+
+        for(char c : charArr){
+            countArr[(int)c]++;
+            sortCountArr[(int)c]++;
+        }
+
+        Arrays.sort(sortCountArr);
+
+        int count = sortCountArr[sortCountArr.length-k];
+
+        for(int i = 0; i < countArr.length; i++ ){
+            if(countArr[i] == count){
+                return (char)i;
+            }
+        }
+
+        return ' ';
+    }
+
+
+    public static int waysCount(int n) {
+        int arr[] = new int[n + 1];
+        arr[0] = 1;
+        for (int i = 1; i <= n; i++) {
+            if (i >= 1) {
+                arr[i] += arr[i - 1];
+            }
+            if (i >= 2) {
+                arr[i] += arr[i - 2];
+            }
+            if (i >= 3) {
+                arr[i] += arr[i - 3];
+            }
+        }
+        return arr[n];
+    }
+
+
 }

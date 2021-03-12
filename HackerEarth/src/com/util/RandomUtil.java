@@ -1,9 +1,6 @@
 package com.util;
 
-import java.util.Arrays;
-import java.util.HashSet;
-import java.util.Random;
-import java.util.Set;
+import java.util.*;
 import java.util.stream.Collectors;
 
 public class RandomUtil {
@@ -12,11 +9,6 @@ public class RandomUtil {
     final static int MAX = 20;
     final static int LEN = 20;
 
-    public static void print(int [] arr){
-        String r = Arrays.stream(arr).mapToObj(i -> ((Integer) i).toString()) //i is an int, not an Integer
-                .collect(Collectors.joining(", "));
-        System.out.println(r);
-    }
     public static int[] generateRandom(int length){
         return generateRandom(length,MIN, MAX,true);
     }
@@ -71,12 +63,12 @@ public class RandomUtil {
 }
 
 /*
-        RandomUtil.print(RandomUtil.generateRandom());
-        RandomUtil.print(RandomUtil.generateRandomUnique());
-        RandomUtil.print(RandomUtil.generateRandom(10,30));
-        RandomUtil.print(RandomUtil.generateRandomUnique(10,20));
-        RandomUtil.print(RandomUtil.generateRandom(5));
-        RandomUtil.print(RandomUtil.generateRandomUnique(5));
-        RandomUtil.print(RandomUtil.generateRandom(5,10,30));
-        RandomUtil.print(RandomUtil.generateRandomUnique(50,10,30));
+        Printer.print(RandomUtil.generateRandom());
+        Printer.print(RandomUtil.generateRandomUnique());
+        Printer.print(RandomUtil.generateRandom(10,30));
+        Printer.print(RandomUtil.generateRandomUnique(10,20));
+        Printer.print(RandomUtil.generateRandom(5));
+        Printer.print(RandomUtil.generateRandomUnique(5));
+        Printer.print(RandomUtil.generateRandom(5,10,30));
+        Printer.print(RandomUtil.generateRandomUnique(50,10,30));
 */

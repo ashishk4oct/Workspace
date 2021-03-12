@@ -1,6 +1,6 @@
 package com.hackerrank.medium;
 
-import com.util.RandomUtil;
+import com.util.RandomUtil;import com.util.Printer;
 
 import java.util.Arrays;
 import java.util.stream.IntStream;
@@ -11,7 +11,7 @@ public class MaxSumSubArray {
 
         IntStream.rangeClosed(1,10).forEach(i ->{
             int [] arr = RandomUtil.generateRandom(20,-10,10);
-            RandomUtil.print(arr);
+            Printer.print(arr);
             subArrayNew(arr);
             System.out.println();
         });

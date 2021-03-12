@@ -1,12 +1,13 @@
 package com.interview.boa;
 
 import com.util.RandomUtil;
+import com.util.Printer;
 
 public class Problem1 {
 
     public static void main(String[] args) {
         int arr[] = RandomUtil.generateRandom(20,1,20);
-        RandomUtil.print(arr);
+        Printer.print(arr);
         int sum = 50;
 
         int m [][] = new int[arr.length+1][sum+1];

@@ -2,62 +2,23 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="030b86a1-b498-40d0-95b6-3b54e1a72288" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../HackerEarth/index" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../HackerEarth/src/com/gfg/problem/PrintAllPermutations.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../HackerEarth/src/com/hackerrank/hard/BinaryIndexedTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../HackerEarth/src/com/hackerrank/hard/BinaryIndexedTreeTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../HackerEarth/src/com/hackerrank/hard/CardsPermutation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../HackerEarth/src/com/hackerrank/medium/BeautifulQuadruples.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../HackerEarth/src/com/hackerrank/medium/BreadthFirstSearchShortestReach.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../HackerEarth/src/com/hackerrank/medium/CutTheTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../HackerEarth/src/com/hackerrank/medium/Equal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../HackerEarth/src/com/hackerrank/medium/LegoBlocksSolution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../HackerEarth/src/com/hackerrank/medium/LongestValidParentheses.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../HackerEarth/src/com/hackerrank/medium/MandragoraForest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../HackerEarth/src/com/hackerrank/medium/MaximumPalindromes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../HackerEarth/src/com/hackerrank/medium/NikitaAndTheGame.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../HackerEarth/src/com/hackerrank/medium/OptimalStrategy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../HackerEarth/src/com/hackerrank/medium/OrganizingContainersofBalls.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../HackerEarth/src/com/hackerrank/medium/QueensAttackII.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../HackerEarth/src/com/hackerrank/medium/RedJohnIsBack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../HackerEarth/src/com/hackerrank/medium/SherlockAndCost.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../HackerEarth/src/com/hackerrank/medium/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../HackerEarth/src/com/hackerrank/medium/SubstringDiff.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../HackerEarth/src/com/hackerrank/medium/TravelAroundTheWorld.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../HackerEarth/src/com/hackerrank/medium/ZeroOneKnapsack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../HackerEarth/src/com/interview/ihs/Problem1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../HackerEarth/src/com/interview/ihs/Problem2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../HackerEarth/src/com/interview/ihs/Problem3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../HackerEarth/src/com/interview/test1/Test1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../HackerEarth/src/com/interview/test2/SolveEquation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../HackerEarth/src/com/problem/amazon/Question1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../HackerEarth/src/com/problem/amazon/Question2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Java8/src/com/java/streams/exceptionhandling/Sample1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../DesignPattern/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../DesignPattern/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../DesignPattern/src/com/headfirst/observerpattern/CurrentConditionsDisplay.java" beforeDir="false" afterPath="$PROJECT_DIR$/../DesignPattern/src/com/headfirst/observerpattern/CurrentConditionsDisplay.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../DesignPattern/src/com/learing/creation/builder/TestBuilderPattern.java" beforeDir="false" afterPath="$PROJECT_DIR$/../DesignPattern/src/com/learing/creation/builder/TestBuilderPattern.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../DesignProblems/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../DesignProblems/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../GeeksForGeeks/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../GeeksForGeeks/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../HackerEarth/src/com/hackerrank/medium/PrimsMSTSpecialSubtree.java" beforeDir="false" afterPath="$PROJECT_DIR$/../HackerEarth/src/com/hackerrank/medium/PrimsMSTSpecialSubtree.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../HackerEarth/src/com/leetcode/problems/LongestValidParentheses.java" beforeDir="false" afterPath="$PROJECT_DIR$/../HackerEarth/src/com/leetcode/problems/LongestValidParentheses.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../HackerEarth/src/com/problem/wissen/Problem.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../HackerEarth/src/com/whatfix/AirportTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../HackerEarth/src/com/interview/test1/AirportTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../HackerEarth/src/com/whatfix/DealerSocket.java" beforeDir="false" afterPath="$PROJECT_DIR$/../HackerEarth/src/com/interview/test1/DealerSocket.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../HackerEarth/src/com/whatfix/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/../HackerEarth/src/com/interview/test1/Employee.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../HackerEarth/src/com/whatfix/EmployeeProjectMap.java" beforeDir="false" afterPath="$PROJECT_DIR$/../HackerEarth/src/com/interview/test1/EmployeeProjectMap.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../HackerEarth/src/com/whatfix/PerfiosTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../HackerEarth/src/com/interview/test1/PerfiosTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../HackerEarth/src/com/whatfix/Settings.java" beforeDir="false" afterPath="$PROJECT_DIR$/../HackerEarth/src/com/interview/test1/Settings.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../HackerEarth/src/com/whatfix/SuggessionsEngine.java" beforeDir="false" afterPath="$PROJECT_DIR$/../HackerEarth/src/com/interview/test1/SuggessionsEngine.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../HackerEarth/src/com/whatfix/SuggestBy.java" beforeDir="false" afterPath="$PROJECT_DIR$/../HackerEarth/src/com/interview/test1/SuggestBy.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../HackerEarth/src/com/whatfix/SuggestByAge.java" beforeDir="false" afterPath="$PROJECT_DIR$/../HackerEarth/src/com/interview/test1/SuggestByAge.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../HackerEarth/src/com/whatfix/SuggestByGender.java" beforeDir="false" afterPath="$PROJECT_DIR$/../HackerEarth/src/com/interview/test1/SuggestByGender.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../HackerEarth/src/com/whatfix/SuggestByHobbies.java" beforeDir="false" afterPath="$PROJECT_DIR$/../HackerEarth/src/com/interview/test1/SuggestByHobbies.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../HackerEarth/src/com/whatfix/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/../HackerEarth/src/com/interview/test1/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../HackerEarth/src/com/whatfix/TestEmployee.java" beforeDir="false" afterPath="$PROJECT_DIR$/../HackerEarth/src/com/interview/test1/TestEmployee.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../HackerEarth/src/com/whatfix/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/../HackerEarth/src/com/interview/test1/User.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java8/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Java8/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java8/src/com/java/methodreference/LearningMethodReference.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Java8/src/com/java/methodreference/LearningMethodReference.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../covid-19.html" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HackerEarth/src/com/codechef/easy/BuyingSweets.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HackerEarth/src/com/codechef/easy/CountingPrettyNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HackerEarth/src/com/codechef/easy/DeliveryMan.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HackerEarth/src/com/codechef/easy/Elevator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HackerEarth/src/com/codechef/easy/Kamehameha.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HackerEarth/src/com/codechef/easy/Reader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HackerEarth/src/com/codechef/easy/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HackerEarth/src/com/codechef/medium/CountingStrings.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HackerEarth/src/com/codechef/medium/RootOfTheProblem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HackerEarth/src/com/codechef/medium/SUBLCM.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HackerEarth/src/com/gfg/problem/CountInversions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HackerEarth/src/com/interview/clearwater/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HackerEarth/src/com/geekforgeeks/beginner/StairsPermutationProblem.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HackerEarth/src/com/hackerrank/medium/JackGoesToRapture.java" beforeDir="false" afterPath="$PROJECT_DIR$/../HackerEarth/src/com/hackerrank/medium/JackGoesToRapture.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HackerEarth/src/com/interview/informatica/Problem1.java" beforeDir="false" afterPath="$PROJECT_DIR$/../HackerEarth/src/com/interview/informatica/Problem1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HackerEarth/src/com/util/RandomUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/../HackerEarth/src/com/util/RandomUtil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/classes/" />
     <ignored path="$PROJECT_DIR$/bin/" />
@@ -68,14 +29,24 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="DefaultGradleProjectSettings">
-    <option name="testRunner" value="GRADLE" />
-    <option name="delegatedBuild" value="true" />
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf />
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/com/java/thread/App1.java" />
+        <option value="$PROJECT_DIR$/src/com/java/thread/ReentrantReadWriteLockExample.java" />
+      </list>
+    </option>
+  </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="953" />
+    <option name="x" value="-7" />
     <option name="width" value="974" />
     <option name="height" value="1047" />
   </component>
@@ -86,12 +57,57 @@
     </navigator>
     <panes>
       <pane id="Scope" />
-      <pane id="ProjectPane" />
       <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Java" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Java" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Java" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Java" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Java" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Java" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Java" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Java" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Java" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="basics" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Java" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Java" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="blockingqueue" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Java8" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -104,6 +120,26 @@
         </RuleState>
       </list>
     </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="ReentrantReadWriteLockExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.java.thread.ReentrantReadWriteLockExample" />
+      <module name="Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.java.thread.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ReentrantReadWriteLockExample" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -119,16 +155,17 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="953" y="0" width="974" height="1047" extended-state="0" />
+    <frame x="-7" y="0" width="974" height="1047" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.5251641" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.53719914" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Learn" order="3" />
       <window_info id="Favorites" order="4" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32932165" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -142,6 +179,65 @@
       <window_info anchor="right" id="Maven" order="3" />
       <window_info anchor="right" id="Palette&#9;" order="4" />
     </layout>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/com/java/thread/App1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="10" column="39" selection-start-line="10" selection-start-column="39" selection-end-line="10" selection-end-column="39" />
+          <folding>
+            <element signature="e#638#639#0" expanded="true" />
+            <element signature="e#659#660#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/java/thread/ReentrantReadWriteLockExample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="26" column="39" lean-forward="true" selection-start-line="26" selection-start-column="16" selection-end-line="26" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/java/thread/MyThreadLocal.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/java/thread/MyThread.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="792">
+          <caret line="36" column="30" selection-start-line="36" selection-start-column="30" selection-end-line="36" selection-end-column="30" />
+          <folding>
+            <element signature="e#609#610#0" expanded="true" />
+            <element signature="e#623#624#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/java/thread/MyForkJoin.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="11" column="46" lean-forward="true" selection-start-line="11" selection-start-column="46" selection-end-line="11" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/java/thread/MyCountDownLatch.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-44">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/java/thread/MyCallable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-176">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
   </component>
   <component name="masterDetails">
     <states>

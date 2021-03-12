@@ -32,5 +32,10 @@ class Task implements Runnable{
     @Override
     public void run() {
         System.out.println("Name: "+ Thread.currentThread().getName()+" Time:"+ new Date());
+        try {
+            Thread.sleep(1000);
+        } catch (InterruptedException e) {
+            e.printStackTrace();
+        }
     }
 }

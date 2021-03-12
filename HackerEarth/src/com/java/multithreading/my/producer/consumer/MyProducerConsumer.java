@@ -1,9 +1,6 @@
 package com.java.multithreading.my.producer.consumer;
 
-import java.util.concurrent.ArrayBlockingQueue;
-import java.util.concurrent.BlockingQueue;
-import java.util.concurrent.ExecutorService;
-import java.util.concurrent.Executors;
+import java.util.concurrent.*;
 
 public class MyProducerConsumer {
 
@@ -11,7 +8,7 @@ public class MyProducerConsumer {
 
         ExecutorService service = Executors.newCachedThreadPool();
 
-        BlockingQueue<String> blockingQueue = new ArrayBlockingQueue<>(10);
+        BlockingQueue<String> blockingQueue = new LinkedBlockingQueue<>(10);
 //        MyBlockingQueue<String> blockingQueue = new MyBlockingQueue<>(10);
 //        MyBlockingQueueWithLocks<String> blockingQueue = new MyBlockingQueueWithLocks<>(20);
         final Runnable producer = () -> {

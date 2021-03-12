@@ -1,6 +1,6 @@
 package com.hackerrank.medium;
 
-import com.util.RandomUtil;
+import com.util.RandomUtil;import com.util.Printer;
 
 public class Bouquets {
 

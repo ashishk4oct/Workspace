@@ -1,6 +1,7 @@
 package com.hackerrank.medium;
 
 import com.util.RandomUtil;
+import com.util.Printer;
 
 import java.util.Arrays;
 import java.util.HashMap;
@@ -11,7 +12,7 @@ public class BeautifulQuadruples {
     public static void main(String[] args) {
 //        int arr [] = RandomUtil.generateRandom(4,1,3000,false);
         int arr[] = new int[]{1,2,3,4};//6297
-        RandomUtil.print(arr);
+        Printer.print(arr);
 
         int count = beautifulQuadruples(arr[0],arr[1],arr[2],arr[3]);
 

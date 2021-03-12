@@ -9,14 +9,20 @@ public class ScheduledThreadPoolExample {
     public static void main(String[] args) {
         ScheduledExecutorService service = Executors.newScheduledThreadPool(10);
 
-        //task to run after 10 seconds of delay
-        service.schedule(new Task(), 10, TimeUnit.SECONDS);
+        //task to run after 3 seconds of delay
+        service.schedule(new Task(), 3, TimeUnit.SECONDS);
 
-        // task to run repeatedly after every 10 seconds
-        service.scheduleAtFixedRate(new Task(),15 ,10, TimeUnit.SECONDS);
+        // task to run repeatedly after every 3 seconds
+        service.scheduleAtFixedRate(new Task(),5 ,3, TimeUnit.SECONDS);
 
-        // task to run repeatedly 10 seconds after previous task completes
-        service.scheduleWithFixedDelay(new Task(),1 ,1, TimeUnit.SECONDS);
+        // task to run repeatedly 4 seconds after previous task completes
+        service.scheduleWithFixedDelay(new Task(),1 ,4, TimeUnit.SECONDS);
+        try {
+            Thread.sleep(15000);
+        } catch (InterruptedException e) {
+            e.printStackTrace();
+        }
+        service.shutdown();
 
     }
 }

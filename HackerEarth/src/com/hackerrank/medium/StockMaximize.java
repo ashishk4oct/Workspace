@@ -1,12 +1,12 @@
 package com.hackerrank.medium;
 
-import com.util.RandomUtil;
+import com.util.RandomUtil;import com.util.Printer;
 
 public class StockMaximize {
 
     public static void main(String[] args) {
         int arr[] = RandomUtil.generateRandom(10, -10, 10);
-        RandomUtil.print(arr);
+        Printer.print(arr);
         System.out.println(stockmax(arr));
     }
 
