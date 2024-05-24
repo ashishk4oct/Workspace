@@ -1,7 +1,5 @@
 package com.hackerrank.hard;
 
-import javax.smartcardio.Card;
-
 public class CardsPermutation {
 
 

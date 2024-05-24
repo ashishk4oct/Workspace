@@ -1,7 +1,5 @@
 package com.java.multithreading.my.producer.consumer;
 
-import javafx.beans.value.ObservableObjectValue;
-
 import java.util.LinkedList;
 import java.util.Queue;
 import java.util.concurrent.locks.Condition;
