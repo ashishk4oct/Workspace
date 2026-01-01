@@ -4,8 +4,9 @@ public class PatternMatching {
 
     public static void main(String[] args) {
 
-    }
 
+
+    }
     public static double getPerimeterWithIf(Shape shape) throws IllegalArgumentException {
         if (shape instanceof Rectangle r) {
             return 2 * r.length() + 2 * r.width();
@@ -73,7 +74,16 @@ public class PatternMatching {
 
     There are two labels that match all values: the default label and a total type pattern (see Null-Matching case Labels).
     You can't have more than one of these two labels in a switch block.
+
+    cases of switch expressions must be exhaustive, which means that for all possible values, there must be a matching switch label.
     */
+    static void test(Object obj) {
+        switch (obj) {
+            case String s -> System.out.println("String");
+            case Object o -> System.out.println(o.toString());
+
+        }
+    }
 
 }
 

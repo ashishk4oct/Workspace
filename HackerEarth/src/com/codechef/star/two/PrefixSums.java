@@ -7,6 +7,7 @@ import java.lang.*;
 import java.io.*;
 
 /*
+ Date: 24 May 2024
 *Problem Link: https://www.codechef.com/practice/course/2-star-difficulty-problems/DIFF1500/problems/UNQEQ
 *
 * Input Format
